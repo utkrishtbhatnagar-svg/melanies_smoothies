@@ -48,5 +48,5 @@ if ingredients_list:
 
 
 
-import requests  
+
 
